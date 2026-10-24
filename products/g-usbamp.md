@@ -1,6 +1,6 @@
 # g.USBamp RESEARCH: 16-channel real-time biosignal amplifier
 
-**What it is:** a 16-channel biosignal amplifier for BCI research, closed-loop neuroscience, neurofeedback and multimodal electrophysiology, used in hundreds of BCI studies. Source: [g.USBamp product page](https://www.gtec.at/product/gusbamp-research-16-channel-biosignal-amplifier/).
+**What it is:** a 16-channel biosignal amplifier for BCI research, closed-loop neuroscience, neurofeedback and multimodal electrophysiology. Source: [g.USBamp product page](https://www.gtec.at/product/gusbamp-research-16-channel-biosignal-amplifier/).
 
 ## Key specifications
 | | |
