@@ -1,0 +1,250 @@
+# BCI communication and control (P300, SSVEP, c-VEP, motor imagery)
+
+Spellers, robot and avatar control, smart home and gaming with non-invasive and invasive BCIs.
+
+**g.tec systems used:** g.USBamp, g.HIamp, g.Nautilus, Unicorn, g.HIsys
+
+## Articles
+- [The Complete Developer Guide to Brain Computer Interface Development](../articles/2026-06-25_the-complete-developer-guide-to-brain-computer-interface-development.md)
+- [The Complete Neurotechnology Ecosystem for Real-Time Neuroscience, BCI, and Multimodal Research](../articles/2026-06-15_brain-computer-interfaces-bcis-platform.md)
+- [Using Brain Waves and Computer Interface Technology as a Communication System](../articles/2025-03-10_using-brain-waves-for-communication.md)
+- [Spring School Day 5: A Brain-Powered Breakthrough in BCI Innovation](../articles/2020-04-27_brain-powered-breakthrough-in-bci-innovation.md)
+- [Spring School Day 4: Breakthrough BCI Innovations](../articles/2020-04-24_breakthrough-bci-innovations.md)
+- [Exciting BCI Breakthroughs: Spring School Day 1](../articles/2020-04-21_exciting-bci-breakthroughs.md)
+
+## Peer-reviewed papers with Christoph Guger as co-author
+Result sentences are quoted from each abstract.
+
+### Papers: P300 / spelling BCI (29 papers)
+- **2025, Attenuation of High Gamma Activity by Repetitive Motor Tasks.** *Human brain mapping*. [DOI](https://doi.org/10.1002/hbm.70153)
+  - A total of 568 electrodes from 11 patients were analyzed, including 139 electrodes within the ROI.
+  - Thus, 60 electrodes demonstrated significant HGAs during the grasping task (p < 0.05).
+  - Short-term attenuation (25%, 15/60 electrodes in ROI) was more pronounced than long-term attenuation (15%, 9/60 electrodes in ROI).
+- **2022, How brain-computer interface technology may improve the diagnosis of the disorders of consciousness: A comparative study.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2022.959339)
+  - For 7 weeks, sixteen DOC patients participated in weekly evaluations using both the Coma Recovery Scale-Revised (CRS-R) and a vibrotactile P300 BCI paradigm.
+- **2020, Corrigendum: Performance Differences Using a Vibro-Tactile P300 BCI in LIS-Patients Diagnosed With Stroke and ALS.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2020.637905)
+- **2020, Auditory and Somatosensory P3 Are Complementary for the Assessment of Patients with Disorders of Consciousness.** *Brain sciences*. [DOI](https://doi.org/10.3390/brainsci10100748)
+  - In the present study, we aim to assess the response to a P3-based paradigm in 40 patients with DOC and 12 healthy participants using auditory (AEP) and vibrotactile (VTP) stimulation.
+- **2020, Effects of a Vibro-Tactile P300 Based Brain-Computer Interface on the Coma Recovery Scale-Revised in Patients With Disorders of Consciousness.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2020.00294)
+  - Six patients did not show a change of the CRS-R and two patients showed a decline in the score by 1 point.
+  - Every patient achieved at least 60% accuracy at least once, which indicates successful command following.
+  - The improvement of the CRS-R score after the 10 VT3 sessions is an important issue for future experiments to test the possible therapeutic applications of vibro-tactile and related BCIs with a larger patient group.
+- **2018, Acceptability Study of A3-K3 Robotic Architecture for a Neurorobotics Painting.** *Frontiers in neurorobotics*. [DOI](https://doi.org/10.3389/fnbot.2018.00081)
+- **2018, Performance Differences Using a Vibro-Tactile P300 BCI in LIS-Patients Diagnosed With Stroke and ALS.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2018.00514)
+  - In the VT3 paradigm, all 6 stroke patients and 8/9 ALS patients showed at least one run above chance.
+  - Overall, patients achieved higher accuracies in VT2 than VT3.
+  - LIS patients due to ALS exhibited higher accuracies that LIS patients due to stroke, in both the VT2 and VT3 paradigms.
+- **2018, Assessing Command-Following and Communication With Vibro-Tactile P300 Brain-Computer Interface Tools in Patients With Unresponsive Wakefulness Syndrome.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2018.00423)
+  - Two patients achieved VT3 accuracy ≥80% and went through communication testing.
+  - One of these patients answered 4 out of 5 questions correctly in session 1, whereas the other patient answered 6/10 and 7/10 questions correctly in sessions 2 and 4.
+  - In 6 other patients, the VT2 or VT3 accuracy was above the significance threshold of 23% for at least one run, while in 4 patients, the accuracy was always below this threshold.
+- **2018, BCI Performance and Brain Metabolism Profile in Severely Brain-Injured Patients Without Response to Command at Bedside.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2018.00370)
+  - In this study, we used a tactile P3-based BCI in 12 patients without behavioral command following, attempting to establish "covert command following." These results were then confronted to cerebral metabolism preservation as measured with glucose PET (FDG-PET).
+  - Our results suggest that the P3-based BCI might probe "covert command following" in patients without behavioral response to command and therefore could be a valuable addition in the clinical assessment of patients with DOC.
+- **2018, Preserved somatosensory discrimination predicts consciousness recovery in unresponsive wakefulness syndrome.** *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. [DOI](https://doi.org/10.1016/j.clinph.2018.02.131)
+  - The efficacy of somatosensory discrimination strongly correlated (VT2: R = 0.89, p = 0.0000002, VT3: R = 0.81, p = 0.002) with the clinical outcome at 6-months.
+- **2017, A Multifunctional Brain-Computer Interface Intended for Home Use: An Evaluation with Healthy Participants and Potential End Users with Dry and Gel-Based Electrodes.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2017.00286)
+  - Two groups of healthy participants completed an experimental protocol with the gel-based and the dry contact electrodes (N = 10 each).
+  - The results demonstrated that all healthy participants gained control over the system and achieved satisfactory to high accuracies with both gel-based and dry electrodes (average error rates of 6 and 13%).
+- **2017, Complete Locked-in and Locked-in Patients: Command Following Assessment and Communication with Vibro-Tactile P300 and Motor Imagery Brain-Computer Interface Tools.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2017.00251)
+  - They were able to communicate with VT3 (86.7%) and MI (83.3%) after 2 training runs.
+  - The patients achieved a mean accuracy of 76.6% in VT2, 63.1% in VT3, and 58.2% in MI modes after 1-2 training runs. 9 out of 12 LIS patients could communicate by using the vibro-tactile P300 paradigms (answered on average 8 out of 10 questions correctly) and 3 out of 12 could communicate with the motor imagery paradigm (answered correctly 4,7 out of 5 questions). 2 out of the 3 CLIS patients could use the system to communicate with VT3 (90 and 70% accuracy).
+  - It is also the first study that showed EEG-based BCI communication with CLIS patients and was able to bring 9 out of 12 patients to communicate with higher accuracies than reported before.
+- **2017, Reaching and Grasping a Glass of Water by Locked-In ALS Patients through a BCI-Controlled Humanoid Robot.** *Frontiers in human neuroscience*. [DOI](https://doi.org/10.3389/fnhum.2017.00068)
+  - Four ALS patients and four healthy controls were recruited and trained to operate this humanoid robot through a P300-based BCI.
+- **2017, Local and Remote Cooperation With Virtual and Robotic Agents: A P300 BCI Study in Healthy and People Living With Spinal Cord Injury.** *IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/TNSRE.2016.2626391)
+  - Along these lines, we developed an immersive P300-based BCI application with a head-mounted display for virtual-local and robotic-remote social interactions and explored in a group of healthy participants the role of proprioceptive feedback in the control of a virtual surrogate (Study 1).
+  - Moreover, we compared the performance of a small group of people with spinal cord injury (SCI) to a control group of healthy subjects during virtual and robotic social interactions (Study 2), where both groups received a proprioceptive stimulation.
+- **2016, Cognitive Processing in Non-Communicative Patients: What Can Event-Related Potentials Tell Us?** *Frontiers in human neuroscience*. [DOI](https://doi.org/10.3389/fnhum.2016.00569)
+  - We investigated the potential of the P300 as a reliable marker of conscious processing in patients with locked-in syndrome (LIS).
+  - Eleven chronic LIS patients and 10 healthy subjects (HS) listened to a complex-tone auditory oddball paradigm, first in a passive condition (listen to the sounds) and then in an active condition (counting the deviant tones).
+  - Three out of seven LIS patients showed the P3 waveform in the passive condition and five of seven in the active condition.
+- **2014, Novel techniques of real-time blood flow and functional mapping: technical note.** *Neurologia medico-chirurgica*. [DOI](https://doi.org/10.2176/nmc.st.2014-0176)
+- **2014, A vibrotactile p300-based brain-computer interface for consciousness detection and communication.** *Clinical EEG and neuroscience*. [DOI](https://doi.org/10.1177/1550059413505533)
+  - In the counting task, 4 patients got accuracies of 100% (average above chance).
+  - In the communication task, one patient achieved 100% accuracy (average above chance).
+  - We have shown the feasibility of eliciting a P300 response using vibrotactile stimulation in patients with LIS.
+- **2013, Performance of a tactile P300 speller for healthy people and severely disabled patients.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2013.6609987)
+  - The two paradigms were tested on 16 users: A group of ten healthy users and a second group comprising of 6 patients suffering Locked-In Syndrome.
+- **2013, A tactile P300-based BCI for communication and detection of awareness.** *Biomedizinische Technik. Biomedical engineering*. [DOI](https://doi.org/10.1515/bmt-2013-4441)
+- **2012, How Many People Could Use an SSVEP BCI?** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2012.00169)
+  - We recorded data from 53 subjects while they participated in 1-4 runs that were each 4 min long.
+  - Online results showed that SSVEP BCIs could provide effective communication for all 53 subjects, resulting in a grand average accuracy of 95.5%.
+  - About 96.2% of the subjects reached an accuracy above 80%, and nobody was below 60%.
+- **2012, P300 brain computer interface: current challenges and emerging trends.** *Frontiers in neuroengineering*. [DOI](https://doi.org/10.3389/fneng.2012.00014)
+  - We conclude that P300 BCIs are quite promising, as several emerging directions have not yet been fully explored and could lead to improvements in bit rate, reliability, usability, and flexibility.
+- **2012, Comparison of dry and gel based electrodes for p300 brain-computer interfaces.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2012.00060)
+  - A total of 23 subjects used a P300 BCI to spell the word "LUCAS" while receiving real-time, closed-loop feedback.
+- **2011, Asynchronous P300-based brain-computer interface to control a virtual environment: initial tests on end users.** *Clinical EEG and neuroscience*. [DOI](https://doi.org/10.1177/155005941104200406)
+- **2011, Accuracy of a P300 speller for people with motor impairments: a comparison.** *Clinical EEG and neuroscience*. [DOI](https://doi.org/10.1177/155005941104200405)
+  - The overall accuracy of the persons with motor impairments reached 70.1% in comparison to 91% obtained for the group of healthy subjects.
+- **2010, Toward BCI Wizard - best BCI approach for each user.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/IEMBS.2010.5627390)
+  - These types of non-invasive BCIs were tested and evaluated in a group of 14 healthy subjects.
+  - Results showed that all subjects could communicate with the P300-based BCI with an accuracy above 69% (5 reached 100% accuracy), 10 out of 14 subjects could effectively use the SSVEP-based BCI (2 reached 100% accuracy).
+- **2009, How many people are able to control a P300-based brain-computer interface (BCI)?** *Neuroscience letters*. [DOI](https://doi.org/10.1016/j.neulet.2009.06.045)
+  - This study shows that high spelling accuracy can be achieved with the P300 BCI system using approximately 5 min of training data for a large number of non-disabled subjects, and that the RC paradigm is superior to the SC paradigm. 89% of the 81 RC subjects were able to spell with accuracy 80-100%.
+  - A similar study using a motor imagery BCI with 99 subjects showed that only 19% of the subjects were able to achieve accuracy of 80-100%.
+  - These large differences in accuracy suggest that with limited amounts of training data the P300-based BCI is superior to the motor imagery BCI.
+- **2005, Effects of cable car ascent to 2700 meters on mean EEG frequency and event-related desynchronization (ERD).** *Wiener medizinische Wochenschrift (1946)*. [DOI](https://doi.org/10.1007/s10354-005-0161-9)
+  - Ten healthy subjects performed a reaction time task at an altitude of 990 m and 2700 m.
+  - The event-related desynchronization (ERD) analysis of the EEG data showed that changes in alpha ERD values are not significant, but event-related synchronization (ERS) values in the beta band decrease significantly from around 50 % to 10 %.
+  - Furthermore, the mean frequency of the beta band increased from 16.68 Hz to 16.81 Hz (p = 0.0019) with the ascent.
+- **2005, Effects of a fast cable car ascent to an altitude of 2700 meters on EEG and ECG.** *Neuroscience letters*. [DOI](https://doi.org/10.1016/j.neulet.2004.11.065)
+  - In this study, 10 healthy subjects performed a reaction time task at 990 m and 2700 m in altitude.
+  - The subjects were instructed to perform a right hand index finger movement as fast as possible after a green light flashed (repeated 50 times).
+  - Furthermore it was shown for the first time that the beta ERS in the 14-18 Hz frequency range (post-movement beta ERS) was significantly reduced at high altitude.
+- **2001, Rapid prototyping of an EEG-based brain-computer interface (BCI).** *IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/7333.918276)
+  - This BCI was tested on 3 subjects whose task it was to imagine either left or right hand movement.
+  - A classification accuracy between 70% and 95% could be achieved with two EEG channels after some sessions with feedback using an adaptive autoregressive (AAR) model and linear discriminant analysis (LDA).
+
+### Papers: Motor imagery BCI (20 papers)
+- **2025, Motor Imagery Acquisition Paradigms: In the Search to Improve Classification Accuracy.** *Sensors (Basel, Switzerland)*. [DOI](https://doi.org/10.3390/s25196204)
+  - The methodology was tested with post-stroke (PS) subject data with BCI experience, obtaining 96.25% accuracy for the best performance, and with the novel paradigm proposed for the naive subjects, 97.5% was obtained.
+- **2024, A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals.** *International journal of neural systems*. [DOI](https://doi.org/10.1142/S0129065723500685)
+  - The proposed method achieved an average accuracy of 72.45 ± 4.19% in the 5-way classification of samples from the source domain dataset, outperforming comparable studies in the literature.
+  - The results demonstrated the system's ability to adapt and recognize new tasks with an average accuracy of 80 ± 0.12% in discriminating hand opening/closing preparation and outperforming reported results in the literature.
+- **2022, Individual finger movement decoding using a novel ultra-high-density electroencephalography-based brain-computer interface system.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2022.1009878)
+  - Low spatial sensor resolution, as found in common EEG systems, can be improved by omitting the conventional standard of EEG electrode distribution (the international 10-20 system) and ordinary mounting structures (e.g., flexible caps).
+  - The average classification accuracy over subjects was 64.8 (6.3)%, with the middle versus ring finger resulting in the highest average accuracy of 70.6 (9.4)%.
+- **2022, Optimizing Motor Imagery Parameters for Robotic Arm Control by Brain-Computer Interface.** *Brain sciences*. [DOI](https://doi.org/10.3390/brainsci12070833)
+- **2021, EEG feature fusion for motor imagery: A new robust framework towards stroke patients rehabilitation.** *Computers in biology and medicine*. [DOI](https://doi.org/10.1016/j.compbiomed.2021.104799)
+  - All patients performed 25 MI-based BCI sessions with follow up assessment visits to examine the functional changes before and after EEG neurorehabilitation.
+- **2021, What Internal Variables Affect Sensorimotor Rhythm Brain-Computer Interface (SMR-BCI) Performance?** *HCA healthcare journal of medicine*. [DOI](https://doi.org/10.36518/2689-0216.1196)
+- **2021, What External Variables Affect Sensorimotor Rhythm Brain-Computer Interface (SMR-BCI) Performance?** *HCA healthcare journal of medicine*. [DOI](https://doi.org/10.36518/2689-0216.1188)
+- **2020, Brain Computer Interface Treatment for Motor Rehabilitation of Upper Extremity of Stroke Patients-A Feasibility Study.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2020.591435)
+  - The results of this study demonstrated a significant increase in the motor function of the paretic arm assessed by Fugl-Meyer Assessment (FMA-UE), ΔFMA-UE = 4.68 points, P < 0.001, reduction of the spasticity in the wrist and fingers assessed by Modified Ashworth Scale (MAS), ΔMAS-wrist = -0.72 points (SD = 0.83), P < 0.001, ΔMAS-fingers = -0.63 points (SD = 0.82), P < 0.001.
+  - All these functional improvements achieved during the BCI therapy persisted 6 months after the therapy ended.
+  - Results also showed that patients with Motor Imagery accuracy (MI) above 80% increase 3.16 points more in the FMA than patients below this threshold (95% CI; [1.47-6.62], P = 0.003).
+- **2018, High Classification Accuracy of a Motor Imagery Based Brain-Computer Interface for Stroke Rehabilitation Training.** *Frontiers in robotics and AI*. [DOI](https://doi.org/10.3389/frobt.2018.00130)
+  - The grand average mean accuracy was 87.4% for all patients and sessions.
+  - All patients were able to achieve at least one session with a maximum accuracy above 96%.
+  - Future studies will also be done with a first-person view 3D avatar to provide improved feedback and thereby increase each patients' sense of engagement.
+- **2018, A New Method to Generate Artificial Frames Using the Empirical Mode Decomposition for an EEG-Based Motor Imagery BCI.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2018.00308)
+  - Results showed that, in some subjects, it is possible to replace up to 50% of frames with artificial data, which reduces training time from 720 to 360 s.
+  - In the remaining subjects, at least 12.5% of the real EEG frames could be replaced, reducing the training time by 90 s.
+  - The method was also tested on an out of sample scenario with the best subjects from a public database, who yielded very good results using a frame collection with 87.5% artificial frames.
+- **2017, Brain-Computer Interfaces With Multi-Sensory Feedback for Stroke Rehabilitation: A Case Study.** *Artificial organs*. [DOI](https://doi.org/10.1111/aor.13054)
+- **2017, Complete Locked-in and Locked-in Patients: Command Following Assessment and Communication with Vibro-Tactile P300 and Motor Imagery Brain-Computer Interface Tools.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2017.00251)
+  - They were able to communicate with VT3 (86.7%) and MI (83.3%) after 2 training runs.
+  - The patients achieved a mean accuracy of 76.6% in VT2, 63.1% in VT3, and 58.2% in MI modes after 1-2 training runs. 9 out of 12 LIS patients could communicate by using the vibro-tactile P300 paradigms (answered on average 8 out of 10 questions correctly) and 3 out of 12 could communicate with the motor imagery paradigm (answered correctly 4,7 out of 5 questions). 2 out of the 3 CLIS patients could use the system to communicate with VT3 (90 and 70% accuracy).
+  - It is also the first study that showed EEG-based BCI communication with CLIS patients and was able to bring 9 out of 12 patients to communicate with higher accuracies than reported before.
+- **2016, recoveriX: a new BCI-based technology for persons with stroke.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2016.7590995)
+- **2015, Online control of a humanoid robot through hand movement imagination using CSP and ECoG based features.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2015.7318720)
+  - One subject participated and reached 95.4 % mean online accuracy after six runs of 40 trials.
+- **2012, A motor imagery based brain-computer interface for stroke rehabilitation.** *Studies in health technology and informatics*. [PubMed](https://pubmed.ncbi.nlm.nih.gov/22954880/)
+- **2009, How many people are able to control a P300-based brain-computer interface (BCI)?** *Neuroscience letters*. [DOI](https://doi.org/10.1016/j.neulet.2009.06.045)
+  - This study shows that high spelling accuracy can be achieved with the P300 BCI system using approximately 5 min of training data for a large number of non-disabled subjects, and that the RC paradigm is superior to the SC paradigm. 89% of the 81 RC subjects were able to spell with accuracy 80-100%.
+  - A similar study using a motor imagery BCI with 99 subjects showed that only 19% of the subjects were able to achieve accuracy of 80-100%.
+  - These large differences in accuracy suggest that with limited amounts of training data the P300-based BCI is superior to the motor imagery BCI.
+- **2006, Walking from thought.** *Brain research*. [DOI](https://doi.org/10.1016/j.brainres.2005.11.083)
+  - Proceedings of the 20th annual conference on Computer graphics and interactive techniques, ACM Press, 1993, pp. 135-142) where participants were able to move through a virtual street by foot imagery only.
+- **2005, Exploring virtual environments with an EEG-based BCI through motor imagery.** *Biomedizinische Technik. Biomedical engineering*. [DOI](https://doi.org/10.1515/BMT.2005.012)
+  - In fact, three trained subjects reached 80% to 100% BCI classification accuracy in the course of the experimental sessions.
+  - All subjects were able to achieve a rotation in the VR to the left or right by approximately 45 degrees during one trial.
+- **2001, Rapid prototyping of an EEG-based brain-computer interface (BCI).** *IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/7333.918276)
+  - This BCI was tested on 3 subjects whose task it was to imagine either left or right hand movement.
+  - A classification accuracy between 70% and 95% could be achieved with two EEG channels after some sessions with feedback using an adaptive autoregressive (AAR) model and linear discriminant analysis (LDA).
+- **2000, Real-time EEG analysis with subject-specific spatial patterns for a brain-computer interface (BCI).** *IEEE transactions on rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/86.895947)
+  - Experiments with three subjects resulted in an error rate of 2, 6 and 14% during on-line discrimination of left- and right-hand motor imagery after three days of training and make common spatial patterns a promising method for an EEG-based brain-computer interface.
+
+### Papers: SSVEP / c-VEP (7 papers)
+- **2014, An electrocorticographic BCI using code-based VEP for control in video applications: a single-subject study.** *Frontiers in systems neuroscience*. [DOI](https://doi.org/10.3389/fnsys.2014.00139)
+  - Multiple ECoG buffer lengths were tested and the subject reached a mean online classification accuracy of 99.21% for a window length of 3.15 s.
+- **2013, A BCI using VEP for continuous control of a mobile robot.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2013.6610734)
+  - In a second non-continuous trial-based validation run the maximum achievable online classification accuracy over all subjects was (i) 91.36 % and (ii) 98.18 %.
+- **2012, Poor performance in SSVEP BCIs: are worse subjects just slower?** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2012.6346803)
+- **2012, How Many People Could Use an SSVEP BCI?** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2012.00169)
+  - We recorded data from 53 subjects while they participated in 1-4 runs that were each 4 min long.
+  - Online results showed that SSVEP BCIs could provide effective communication for all 53 subjects, resulting in a grand average accuracy of 95.5%.
+  - About 96.2% of the subjects reached an accuracy above 80%, and nobody was below 60%.
+- **2012, P300 brain computer interface: current challenges and emerging trends.** *Frontiers in neuroengineering*. [DOI](https://doi.org/10.3389/fneng.2012.00014)
+  - We conclude that P300 BCIs are quite promising, as several emerging directions have not yet been fully explored and could lead to improvements in bit rate, reliability, usability, and flexibility.
+- **2012, Comparison of dry and gel based electrodes for p300 brain-computer interfaces.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2012.00060)
+  - A total of 23 subjects used a P300 BCI to spell the word "LUCAS" while receiving real-time, closed-loop feedback.
+- **2010, Toward BCI Wizard - best BCI approach for each user.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/IEMBS.2010.5627390)
+  - These types of non-invasive BCIs were tested and evaluated in a group of 14 healthy subjects.
+  - Results showed that all subjects could communicate with the P300-based BCI with an accuracy above 69% (5 reached 100% accuracy), 10 out of 14 subjects could effectively use the SSVEP-based BCI (2 reached 100% accuracy).
+
+### Papers: BCI paradigms (P300, SSVEP, MI) (77)
+- **2026, Brain-Computer Interface Research: A State-of-the-Art Summary 13** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-032-25828-1_1)
+- **2026, A Summary of the 2024 BCI Award and BCI Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-032-25828-1_16)
+- **2026, BCI Hardware and Tools Used in BCI Award-Winning Projects** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-032-25828-1_2)
+- **2026, Start Your Own BCI Lab: A Practical Guide for Rapid Setup** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-032-25828-1_3)
+- **2025, A Summary of the 2023 BCI Award with Discussion of BCI Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-031-80497-7_12)
+- **2025, Brain-Computer Interface Research: A State-of-the-Art Summary 12** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-031-80497-7_1)
+- **2024, Brain-Computer Interface Research: A State-of-the-Art Summary 11** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-031-49457-4_1)
+- **2024, A Summary of the 2022 BCI Award with Discussion of BCI Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-031-49457-4_13)
+- **2023, Noninvasive and Invasive BCIs and Hardware and Software Components for BCIs** *Handbook of Neuroengineering* (book-chapter). [DOI](https://doi.org/10.1007/978-981-16-5540-1_34)
+- **2021, Brain-Computer Interface Research: A State-of-the-Art Summary 9** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-60460-8_1)
+- **2021, Recent Advances in Brain-Computer Interface Research: A Summary of the 2019 BCI Award and Online BCI Research Activities** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-60460-8_15)
+- **2021, Brain-Computer Interface Research: A State-of-the-Art Summary 10** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-79287-9_1)
+- **2021, Recent Advances in Brain-Computer Interface Research: A Summary of the 2020 BCI Award** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-79287-9_13)
+- **2021, Cognitive and Affective Brain–Computer Interfaces for Improving Learning Strategies and Enhancing Student Capabilities: A Systematic Literature Review** *IEEE Access* (journal-article). [DOI](https://doi.org/10.1109/access.2021.3115263)
+- **2021, Noninvasive and Invasive BCIs and Hardware and Software Components for BCIs** *Handbook of Neuroengineering* (book-chapter). [DOI](https://doi.org/10.1007/978-981-15-2848-4_34-2)
+- **2020, Online Classification of Motor Imagery Using EEG and fNIRS: A Hybrid Approach with Real Time Human-Computer Interaction** *Communications in Computer and Information Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-50726-8_30)
+- **2020, Posibilidades del uso de tramas artificiales de imagen motora para un BCI basado en EEG** *XXXVIII Jornadas de Automática: Gijón, 6, 7, y 8 de septiembre de 2017* (proceedings-article). [DOI](https://doi.org/10.17979/spudc.9788497497749.0276)
+- **2019, EEG-Trockenelektroden und ihre Anwendungen bei BCI-Systemen** *Das Neurophysiologie-Labor* (journal-article). [DOI](https://doi.org/10.1016/j.neulab.2019.05.003)
+- **2019, The BR4IN.IO Hackathons** *Brain Art* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-14323-7_17)
+- **2019, Recent Advances in Brain-Computer Interface Research—A Summary of the 2017 BCI Award and BCI Research Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-05668-1_11)
+- **2019, Brain-Computer Interface Research: A State-of-the-Art Summary 7** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-05668-1_1)
+- **2019, Current and future applications of non-invasive and invasive brain-Computer interfaces** *2019 IEEE 8th International Workshop on Advances in Sensors and Interfaces (IWASI)* (proceedings-article). [DOI](https://doi.org/10.1109/iwasi.2019.8791394)
+- **2019, The Art, Science, and Engineering of BCI Hackathons** *Springer Series on Bio- and Neurosystems* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-24326-5_15)
+- **2018, Exploring Bands Suppression in Artificial Frames for Motor-Imagery Brain Computer Interfaces** *Biosystems & Biorobotics* (book-chapter). [DOI](https://doi.org/10.1007/978-3-030-01845-0_147)
+- **2017, Estimation of Intracranial P300 Speller Sites with Magnetoencephalography (MEG)—Perspectives for Non-invasive Navigation of Subdural Grid Implantation** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-57132-4_9)
+  - The study demonstrates the feasibility of using MEG as a non-invasive tool for navigating electrode implantation required for high accuracy invasive P300 speller control using magnetoencephalogaphy.
+- **2017, Brain-Computer Interface Research: A State-of-the-Art Summary 5** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-57132-4_1)
+- **2017, Recent Advances in Brain-Computer Interface Research—A Summary of the BCI Award 2015 and BCI Research Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-57132-4_11)
+- **2017, Optimal bandpower estimation and tracking via Kalman filtering for real-time Brain-Computer Interfaces** *2017 8th International IEEE/EMBS Conference on Neural Engineering (NER)* (proceedings-article). [DOI](https://doi.org/10.1109/ner.2017.8008424)
+- **2017, Recent Advances in Brain-Computer Interface Research—A Summary of the BCI Award 2016 and BCI Research Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-64373-1_12)
+- **2016, A comparison of face speller approaches for P300 BCIs** *2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC)* (proceedings-article). [DOI](https://doi.org/10.1109/smc.2016.7844989)
+- **2015, BNCI Horizon 2020: towards a roadmap for the BCI community** *Brain-Computer Interfaces* (journal-article). [DOI](https://doi.org/10.1080/2326263x.2015.1008956)
+- **2015, How many people can control a motor imagery based BCI using common spatial patterns?** *2015 7th International IEEE/EMBS Conference on Neural Engineering (NER)* (proceedings-article). [DOI](https://doi.org/10.1109/ner.2015.7146595)
+- **2015, Brain-Computer Interface Research: A State-of-the-Art Summary 4** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-25190-5_1)
+- **2015, Recent Advances in Brain-Computer Interface Research—A Summary of the BCI Award 2014 and BCI Research Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-25190-5_12)
+- **2014, Recent Advances in Brain-Computer Interface Research - Projects Nominated for the BCI Award 2012** *Biosystems & Biorobotics* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-54707-2_1)
+- **2014, Recent Advances in Brain-Computer Interface Research – A Summary of the BCI Award 2012 and BCI Research Trends** *Biosystems & Biorobotics* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-54707-2_11)
+- **2014, A tactile Brain-Computer Interface for severely disabled patients** *2014 IEEE Haptics Symposium (HAPTICS)* (proceedings-article). [DOI](https://doi.org/10.1109/haptics.2014.6775460)
+- **2014, Toward Multi-brain Communication: Collaborative Spelling with a P300 BCI** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-07527-3_5)
+- **2014, Comparison of SSVEP BCI and Eye Tracking for Controlling a Humanoid Robot in a Social Environment** *Presence: Teleoperators and Virtual Environments* (journal-article). [DOI](https://doi.org/10.1162/pres_a_00192)
+- **2014, Recent Advances in Brain-Computer Interface Research—The BCI Award 2013** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-09979-8_1)
+- **2014, The BCI 2013 Award Winner and BCI Trends** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-09979-8_11)
+- **2014, How Many People Can Use a BCI System?** *Clinical Systems Neuroscience* (book-chapter). [DOI](https://doi.org/10.1007/978-4-431-55037-2_3)
+- **2013, Bewusstseinsdetektion mittels P300** *Klinische Neurophysiologie* (journal-article). [DOI](https://doi.org/10.1055/s-0033-1337305)
+- **2013, Schlaganfallrehabilitation mittels Brain-Computer Interface** *Klinische Neurophysiologie* (journal-article). [DOI](https://doi.org/10.1055/s-0033-1337319)
+- **2013, State of the Art in BCI Research: BCI Award 2011** *SpringerBriefs in Electrical and Computer Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-36083-1_1)
+- **2013, Multitask Humanoid Control with a Brain-Computer Interface: User Experiment with HRP-2** *Springer Tracts in Advanced Robotics* (book-chapter). [DOI](https://doi.org/10.1007/978-3-319-00065-7_16)
+- **2012, Usability of video-overlaying SSVEP based BCIs** *Proceedings of the 3rd Augmented Human International Conference* (proceedings-article). [DOI](https://doi.org/10.1145/2160125.2160151)
+- **2012, Augmented control of an avatar using an SSVEP based BCI** *Proceedings of the 3rd Augmented Human International Conference* (proceedings-article). [DOI](https://doi.org/10.1145/2160125.2160152)
+- **2012, BCI Hardware and Software** *Brain–Computer InterfacesPrinciples and Practice* (book-chapter). [DOI](https://doi.org/10.1093/acprof:oso/9780195388855.003.0009)
+- **2012, BCI Application in Robotics Control** *IFAC Proceedings Volumes* (journal-article). [DOI](https://doi.org/10.3182/20120523-3-ro-2023.00432)
+  - A way to optimize the on-line classification accuracy of a MI-based BCI system by choosing an optimal time window for calculating the common spatial patterns (CSP), which showed that for the analyzed datasets the best classification accuracy was achieved with a 4 second time length.
+- **2012, Comparing the Accuracy of a P300 Speller for People with Major Physical Disability** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-31534-3_27)
+- **2012, Combining BCI with Virtual Reality: Towards New Applications and Improved BCI** *Biological and Medical Physics, Biomedical Engineering* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-29746-5_10)
+- **2012, A hybrid Brain-Computer Interface for improving the usability of a smart home control** *2012 ICME International Conference on Complex Medical Engineering (CME)* (proceedings-article). [DOI](https://doi.org/10.1109/iccme.2012.6275714)
+- **2011, Brain-Computer Interface: Generic Control Interface for Social Interaction Applications** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-21501-8_48)
+- **2011, Social Environments, Mixed Communication and Goal-Oriented Control Application Using a Brain-Computer Interface** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-21663-3_59)
+- **2011, A Hybrid Brain-Computer Interface for Smart Home Control** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-21605-3_46)
+- **2011, Accuracy of a P300 speller for people with motor impairments** *2011 IEEE Symposium on Computational Intelligence, Cognitive Algorithms, Mind, and Brain (CCMB)* (proceedings-article). [DOI](https://doi.org/10.1109/ccmb.2011.5952115)
+- **2011, Brain Computer Interface** *Springer Handbook of Medical Technology* (book-chapter). [DOI](https://doi.org/10.1007/978-3-540-74658-4_52)
+- **2011, Hardware/Software Components and Applications of BCIs** *Recent Advances in Brain-Computer Interface Systems* (book-chapter). [DOI](https://doi.org/10.5772/14174)
+  - A recent study (Guger 2009), performed on 100 subjects, revealed an average accuracy level of 91.1%, with a spelling time of 28.8 s for one single character.
+- **2011, Using brain-computer interface to steer a humanoid robot** *2011 IEEE International Conference on Robotics and Biomimetics* (proceedings-article). [DOI](https://doi.org/10.1109/robio.2011.6181284)
+- **2010, Effects of P300-Based BCI Use on Reported Presence in a Virtual Environment** *Presence: Teleoperators and Virtual Environments* (journal-article). [DOI](https://doi.org/10.1162/pres.19.1.1)
+- **2010, Goal orientated Brain-Computer interfaces for Control: a virtual smart home application study** *BMC Neuroscience* (journal-article). [DOI](https://doi.org/10.1186/1471-2202-11-s1-p134)
+  - The worst results had subject 3 with only 30 % accuracy for 2 flashes.
+  - A total of 3 subjects participated in the SSVEP experiment displaying a mean error rate of 3-5%.
+- **2010, Controlling a robot with a brain-computer interface based on steady state visual evoked potentials** *The 2010 International Joint Conference on Neural Networks (IJCNN)* (proceedings-article). [DOI](https://doi.org/10.1109/ijcnn.2010.5596688)
+- **2010, P4-24 P300 and SSVEP based brain-computer interface for control of a smart home virtual environment** *Clinical Neurophysiology* (journal-article). [DOI](https://doi.org/10.1016/s1388-2457(10)60519-6)
+- **2010, Brain-computer Interface for Spelling and Environmental Control** *PsycEXTRA Dataset* (dataset). [DOI](https://doi.org/10.1037/e530522011-002)
+- **2009, Brain-Computer Interfaces for Virtual Environment Control** *IFMBE Proceedings* (book-chapter). [DOI](https://doi.org/10.1007/978-3-540-92841-6_90)
+- **2009, A Brain-Computer Interface Based on Steady State Visual Evoked Potentials for Controlling a Robot** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-02478-8_86)
+- **2009, Brain-computer interfaces for goal orientated control of a virtual smart home environment** *2009 4th International IEEE/EMBS Conference on Neural Engineering* (proceedings-article). [DOI](https://doi.org/10.1109/ner.2009.5109333)
+- **2009, Virtual Smart Home Controlled by Thoughts** *2009 18th IEEE International Workshops on Enabling Technologies: Infrastructures for Collaborative Enterprises* (proceedings-article). [DOI](https://doi.org/10.1109/wetice.2009.41)
+- **2009, Goal-Oriented Control with Brain-Computer Interface** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-02812-0_83)
+- **2009, Using a P300 Brain Computer Interface for Smart Home Control** *IFMBE Proceedings* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-03889-1_47)
+- **2009, The First Commercial Brain–Computer Interface Environment** *The Frontiers Collection* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-02091-9_16)
+- **2007, Navigating Virtual Reality by Thought: What Is It Like?** *Presence: Teleoperators and Virtual Environments* (journal-article). [DOI](https://doi.org/10.1162/pres.16.1.100)
+- **2006, Walking by Thinking: The Brainwaves Are Crucial, Not the Muscles!** *Presence: Teleoperators and Virtual Environments* (journal-article). [DOI](https://doi.org/10.1162/pres.15.5.500)
+- **2003, COMBINING BRAIN-COMPUTER INTERFACE AND VIRTUAL REALITY TECHNOLOGIES** *Biomedical Engineering / Biomedizinische Technik* (journal-article). [DOI](https://doi.org/10.1515/bmte.2003.48.s1.34)
+- **1999, EEG-based brain-computer interface using subject-specific spatial filters** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/bfb0100491)
+- **None, Architectures of laboratory-PC and mobile pocket PC brain-computer interfaces** *Conference Proceedings. 2nd International IEEE EMBS Conference on Neural Engineering, 2005.* (proceedings-article). [DOI](https://doi.org/10.1109/cne.2005.1419568)

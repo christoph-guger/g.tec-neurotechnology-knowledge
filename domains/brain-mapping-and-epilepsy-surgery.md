@@ -1,0 +1,143 @@
+# Brain mapping and epilepsy or tumor surgery
+
+Real-time high-gamma mapping, electrical cortical stimulation and CCEP network mapping with ECoG and sEEG.
+
+**g.tec systems used:** cortiQ, g.HIamp, g.Estim PRO, g.HIsys
+
+## Articles
+- [Why Ultra-High-Density EEG Is Changing Brain Mapping](../articles/2026-07-08_why-ultra-high-density-eeg-changes-brain-mapping.md)
+- [The Complete Neurotechnology Ecosystem for Real-Time Neuroscience, BCI, and Multimodal Research](../articles/2026-06-15_brain-computer-interfaces-bcis-platform.md)
+- [Multimodal Neuroscience Research: The Complete Real-Time Neurotechnology Ecosystem](../articles/2026-06-10_multimodal-neuroscience-research-real-time-neurotechnology-ecosystem.md)
+- [When Microstructure Meets Mapping: What a New Direct Electrical Stimulation Study Reveals — and Why g.HIamp Matters](../articles/2026-01-26_what-a-new-direct-electrical-stimulation-study-reveals-and-why-g-hiamp-matters.md)
+- [Christoph Guger: Revolutionizing Neurorehabilitation and BCI Technology for a Healthier Future](../articles/2025-04-10_christoph-guger-revolutionizing-bci.md)
+- [Unlock Brain Connectivity: Recording CCEPs and Mapping Functional Cortical Networks](../articles/2025-03-21_recording-cceps-mapping-networks.md)
+- [Brain Mapping in Children: Advancing Pediatric Epilepsy Surgery with cortiQ Cortical Mapping](../articles/2025-03-13_pediatric-epilepsy-surgery-with-cortiq.md)
+- [Christoph Guger: A Seasoned Biomedical Engineering Expert Offering Impeccable Solutions for Neurotechnology](../articles/2025-03-10_solutions-for-neurotechnology.md)
+- [Revolutionizing the Brain: Christoph Guger’s Path to Neurotechnology Innovation](../articles/2025-03-10_revolutionizing-the-brain-christoph-guger.md)
+- [Attenuation of High Gamma Activity by Repetitive Motor Tasks](../articles/2025-02-17_attenuation-of-high-gamma-activity.md)
+- [Revolutionizing the Brain: Christoph Guger’s Trailblazing Path to Neurotechnology Innovation](../articles/2025-01-28_path-to-neurotechnology-innovation.md)
+- [Discover cortiQ 2.0: Cutting-Edge Cortical Mapping for Enhanced Epilepsy and Tumor Surgery](../articles/2024-12-05_cortiq-cortical-mapping.md)
+- [Revolutionizing Canine Research with EEG in Dogs: Enhancing Welfare, Behavior, and Training](../articles/2024-11-14_canine-research-with-eeg-in-dogs.md)
+- [Revolutionize Your Biosignal Research with g.Pangolin Ultra High-Density EEG System!](../articles/2024-11-05_g-pangolin-ultra-high-density-eeg-system.md)
+- [Redefining The Future Of Brain-Computer Interfaces: Dr. Christoph Guger As The Founder Of g.tec medical engineering](../articles/2024-11-05_future-of-brain-computer-interfaces.md)
+- [Events: Unlock g.tec’s Powerful Workshops and Hackathons in 2024](../articles/2024-04-11_upcoming-events.md)
+- [Revolutionizing Neuromodulation: The Exciting Potential of Open- and Closed Loop Systems with MATLAB and Simulink](../articles/2024-04-04_open-and-closed-loop.md)
+- [Mapping of the Central Sulcus using g.Pangolin Ultra High-Density EEG/EMG/ECG System](../articles/2024-03-20_ultra-high-density-eeg-emg-ecg-system.md)
+- [g.tec Newsletter #2 in 2023: Unlock Exciting New Features and Updates](../articles/2023-02-23_g-tec-newsletter-2023.md)
+- [g.tec Newsletter #1 2023: Exciting Innovations & Cutting-Edge Updates](../articles/2023-01-24_g-tec-newsletter-1-2023.md)
+- [How to record high-quality Cortico-Cortical Evoked Potentials (CCEP)?](../articles/2022-10-18_cortico-cortical-evoked-potentials.md)
+- [History of BCI – Work hard, Mrs. Wahl!](../articles/2021-08-27_history-of-bci-work-hard-mrs-wahl.md)
+- [Powerful BCI Advances: Spring School Day 3](../articles/2020-04-23_powerful-bci-advances-spring-school-day-3.md)
+- [BCI Award 2017 Winner: Decoding Inner Speech: Utopia or Reality?](../articles/2019-09-12_bci-award-2017-winner-decoding-inner-speech.md)
+
+## Peer-reviewed papers with Christoph Guger as co-author
+Result sentences are quoted from each abstract.
+
+### Papers: cortiQ / ECoG / sEEG mapping (35 papers)
+- **2026, Neuromodulation by electrical stimulation timing during picture naming task based on high gamma dynamics.** *Epilepsy & behavior reports*. [DOI](https://doi.org/10.1016/j.ebr.2026.100883)
+  - In the PN task with no ECS, HGA peaked between 454 and 684 ms in the patients.
+  - ECS before the HGA peaks caused symptoms, and error rates became 92% and 47%, whereas post-peak ECS errors reduced to 37% and 13%.
+- **2025, Epileptiform Discharges and High-Frequency Oscillations (HFOs) Aid in Identifying Seizure Location.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC58623.2025.11254185)
+- **2025, Motor Imagery Acquisition Paradigms: In the Search to Improve Classification Accuracy.** *Sensors (Basel, Switzerland)*. [DOI](https://doi.org/10.3390/s25196204)
+  - The methodology was tested with post-stroke (PS) subject data with BCI experience, obtaining 96.25% accuracy for the best performance, and with the novel paradigm proposed for the naive subjects, 97.5% was obtained.
+- **2025, Attenuation of High Gamma Activity by Repetitive Motor Tasks.** *Human brain mapping*. [DOI](https://doi.org/10.1002/hbm.70153)
+  - A total of 568 electrodes from 11 patients were analyzed, including 139 electrodes within the ROI.
+  - Thus, 60 electrodes demonstrated significant HGAs during the grasping task (p < 0.05).
+  - Short-term attenuation (25%, 15/60 electrodes in ROI) was more pronounced than long-term attenuation (15%, 9/60 electrodes in ROI).
+- **2024, A Few-Shot Transfer Learning Approach for Motion Intention Decoding from Electroencephalographic Signals.** *International journal of neural systems*. [DOI](https://doi.org/10.1142/S0129065723500685)
+  - The proposed method achieved an average accuracy of 72.45 ± 4.19% in the 5-way classification of samples from the source domain dataset, outperforming comparable studies in the literature.
+  - The results demonstrated the system's ability to adapt and recognize new tasks with an average accuracy of 80 ± 0.12% in discriminating hand opening/closing preparation and outperforming reported results in the literature.
+- **2023, Characterization of High-Gamma Activity in Electrocorticographic Signals.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2023.1206120)
+  - Our study is based on ECoG signals recorded from 18 epilepsy patients while performing motor control, listening, and visual perception tasks.
+- **2021, Multi-modal Mapping of the Face Selective Ventral Temporal Cortex-A Group Study With Clinical Implications for ECS, ECoG, and fMRI.** *Frontiers in human neuroscience*. [DOI](https://doi.org/10.3389/fnhum.2021.616591)
+  - Thus, 28 face locations were co-localized by at least two modalities, with detection rates of 89.3% for fMRI, 85.7% for ECoG and 53.6 % for ECS.
+  - All five patients had no face recognition deficits after surgery, even though five of the face selective locations, one obtained by ECoG and the other four by fMRI, were within 10 mm to the resected volumes.
+  - In conclusion, ECS was not sensitive in several patients, whereas ECoG and fMRI even showed activation within 10 mm to the resected volumes.
+- **2020, Tailor-Made Surgery Based on Functional Networks for Intractable Epilepsy.** *Frontiers in neurology*. [DOI](https://doi.org/10.3389/fneur.2020.00073)
+  - All 14 epilepsy patients with no or little abnormality on images investigations underwent subdural grid implantation for epilepsy diagnosis.
+  - To perform quick network analysis, we recorded and analyzed high gamma activity (HGA) of epileptogenic activity and CCEPs to identify pathological activity distribution and network connectivity. [Results] Pathological CCEPs showed two negative deflections consisting of early (>40 ms) and late (>150 ms) components in electrically stable circumstance at bed side and early CCEPs appeared in 57% of the patients.
+  - Thirteen (92.8%) patients with or without CCEPs who underwent network surgery had favorable prognosis except for a case with wide traumatic epilepsy.
+- **2019, Time-Variant Linear Discriminant Analysis Improves Hand Gesture and Finger Movement Decoding for Invasive Brain-Computer Interfaces.** *Frontiers in neuroscience*. [DOI](https://doi.org/10.3389/fnins.2019.00901)
+  - On whitened data, TVLDA outperformed LDA with feature selection by 11.8%, LDA with CSPs by 13.9%, and regularized LDA with vectorized features by 16.4%.
+  - For example, the three high-level gestures were correctly identified at a rate of 99% over all subjects.
+  - Similarly, the decoding accuracy of individual fingers was 96% on average over all subjects.
+- **2019, A quantitative method for evaluating cortical responses to electrical stimulation.** *Journal of neuroscience methods*. [DOI](https://doi.org/10.1016/j.jneumeth.2018.09.034)
+  - We applied SIGNI to electrocorticographic (ECoG) data from eight human subjects who were implanted with a total of 978 subdural electrodes.
+  - Across the eight subjects, we delivered 92 trains of approximately 200 discrete electrical stimuli each (amplitude 4-15 mA) to a total of 64 electrode pairs.
+- **2018, Acceptability Study of A3-K3 Robotic Architecture for a Neurorobotics Painting.** *Frontiers in neurorobotics*. [DOI](https://doi.org/10.3389/fnbot.2018.00081)
+- **2018, Passive functional mapping of receptive language areas using electrocorticographic signals.** *Clinical neurophysiology : official journal of the International Federation of Clinical Neurophysiology*. [DOI](https://doi.org/10.1016/j.clinph.2018.09.007)
+  - We mapped language function in 23 patients using ECoG and using electrical cortical stimulation (ECS) in a subset of 15 subjects.
+  - A quantitative comparison indicates a high level of sensitivity (95%) and a lower level of specificity (59%).
+  - Detailed analysis reveals that 82% of all cortical sites identified by ECoG were within one contact of a site identified by ECS.
+- **2018, Real-time detection and discrimination of visual perception using electrocorticographic signals.** *Journal of neural engineering*. [DOI](https://doi.org/10.1088/1741-2552/aaa9f6)
+  - Further discrimination of grey versus colored images reached an accuracy of 67.1%.
+  - Discriminating all colors and types (14 classes) yielded an accuracy of 52.1%.
+  - In experiment II and III, the real-time decoder correctly detected 73.7% responses to face, kanji and black computer stimuli and 74.8% responses to presented natural scenes.
+- **2018, Disconnection of the pathological connectome for multifocal epilepsy surgery.** *Journal of neurosurgery*. [DOI](https://doi.org/10.3171/2017.6.JNS17452)
+  - HGA and CCEP investigations were done after the first surgery, before the second surgery was performed to resect epileptogenic foci, with continuous CCEP monitoring during resection.RESULTSAll 4 patients in this report had measurable pathological CCEPs.
+  - At last follow-up, all of the patients were in long-term postoperative seizure-free status, although 1 patient still suffered from visual aura every other month.CONCLUSIONSCombined CCEP measurement, HGA mapping, and tractography greatly facilitated targeted disconnection of pathological networks in this study.
+- **2018, A Human-Humanoid Interaction Through the Use of BCI for Locked-In ALS Patients Using Neuro-Biological Feedback Fusion.** *IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/TNSRE.2017.2728140)
+  - The results showed as three ALS patients have completed the task with 96.67% success; the healthy controls with 100% success; the fourth ALS has been excluded from the results for his low general attention during the task; the analysis of factor highlights as ALS subjects have shown stronger (81.20%) than healthy controls (76.77%).
+- **2017, Facephenes and rainbows: Causal evidence for functional and anatomical specificity of face and color processing in the human brain.** *Proceedings of the National Academy of Sciences of the United States of America*. [DOI](https://doi.org/10.1073/pnas.1713447114)
+- **2017, Passive functional mapping guides electrical cortical stimulation for efficient determination of eloquent cortex in epilepsy patients.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2017.8037773)
+  - Using the RTFM and ECS data from four patients who suffer epilepsy, we demonstrate that the RTFM-guided ECS procedure hypothetically reduces the number of electrical stimulations necessary for eloquent cortex detection by 40%.
+- **2017, Clinical Impact and Implication of Real-Time Oscillation Analysis for Language Mapping.** *World neurosurgery*. [DOI](https://doi.org/10.1016/j.wneu.2016.09.071)
+  - For reference, bedside HGA-ECS mapping was performed in 5 epilepsy patients.
+  - Sensitivity and specificity for the language area were 90.1% ± 11.2% and 90.0% ± 4.2%, respectively.
+- **2016, Corrigendum to "Proceedings of the Seventh International Workshop on Advances in Electrocorticography" [Epilepsy Behav. 51 (2015) 312-320].** *Epilepsy & behavior : E&B*. [DOI](https://doi.org/10.1016/j.yebeh.2016.07.004)
+- **2016, Passive language mapping combining real-time oscillation analysis with cortico-cortical evoked potentials for awake craniotomy.** *Journal of neurosurgery*. [DOI](https://doi.org/10.3171/2015.4.JNS15193)
+  - In this small case series, the sensitivity and specificity were 93.8% and 89%, respectively.
+- **2015, Distinction of individual finger responses in somatosensory cortex using ECoG high-gamma activation mapping.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2015.7319701)
+  - Data were collected during a vibrotactile finger stimulation paradigm and showed significant cortical activation (p <; 0.001) in the high-gamma range over the contralateral somatosensory cortex.
+- **2015, Online control of a humanoid robot through hand movement imagination using CSP and ECoG based features.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2015.7318720)
+  - One subject participated and reached 95.4 % mean online accuracy after six runs of 40 trials.
+- **2015, Proceedings of the Seventh International Workshop on Advances in Electrocorticography.** *Epilepsy & behavior : E&B*. [DOI](https://doi.org/10.1016/j.yebeh.2015.08.002)
+- **2015, CortiQ-based Real-Time Functional Mapping for Epilepsy Surgery.** *Journal of clinical neurophysiology : official publication of the American Electroencephalographic Society*. [DOI](https://doi.org/10.1097/WNP.0000000000000131)
+  - Electrocorticographic activity was recorded in 3 male patients with intractable epilepsy by using cortiQ mapping system and analyzed in real time.
+- **2014, Rapid and low-invasive functional brain mapping by realtime visualization of high gamma activity for awake craniotomy.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2014.6945190)
+  - Sensitivity and specificity of HGA mapping were 100% compared to ECS mapping in the frontal lobe, which suggested HGA mapping precisely indicated eloquent cortices.
+  - Specificities of the motor and language-fMRI, however, did not reach 85%.
+- **2014, Single trial detection of hand poses in human ECoG using CSP based feature extraction.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2014.6944648)
+  - Two subjects S1 and S2 performed single `open', `peace' and `fist' hand poses in multiple trials.
+  - A multi-class linear discriminant analysis (LDA) showed for (i) an error rate of 13.89 % / 7.22 % and 18.42 % / 1.17 % for S1 and S2 using manually / CSP selected features, where for (ii) a two class LDA lead to a classification error of 13.39 % and 2.33 % for S1 and S2, respectively.
+- **2014, Novel techniques of real-time blood flow and functional mapping: technical note.** *Neurologia medico-chirurgica*. [DOI](https://doi.org/10.2176/nmc.st.2014-0176)
+- **2014, An electrocorticographic BCI using code-based VEP for control in video applications: a single-subject study.** *Frontiers in systems neuroscience*. [DOI](https://doi.org/10.3389/fnsys.2014.00139)
+  - Multiple ECoG buffer lengths were tested and the subject reached a mean online classification accuracy of 99.21% for a window length of 3.15 s.
+- **2014, Rapid and minimum invasive functional brain mapping by real-time visualization of high gamma activity during awake craniotomy.** *World neurosurgery*. [DOI](https://doi.org/10.1016/j.wneu.2014.08.009)
+  - Sensitivity and specificity of HGA mapping were 100% compared with ECS mapping in the frontal lobe, which suggested HGA mapping precisely indicated eloquent cortices.
+  - Specificities of the motor and language-fMRI did not reach 85%.
+- **2013, CortiQ - clinical software for electrocorticographic real-time functional mapping of the eloquent cortex.** *Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference*. [DOI](https://doi.org/10.1109/EMBC.2013.6611010)
+  - Next-neighbour analyses show that there are no false positives and an average of 1.24% false negatives.
+- **2013, Real-Time Software for Functional Mapping of Eloquent Cortex Using Electrocorticography.** *Biomedizinische Technik. Biomedical engineering*. [DOI](https://doi.org/10.1515/bmt-2013-4176)
+- **2010, Proceedings of the first international workshop on advances in electrocorticography.** *Epilepsy & behavior : E&B*. [DOI](https://doi.org/10.1016/j.yebeh.2010.08.028)
+- **2006, BCI meeting 2005--workshop on technology: hardware and software.** *IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/TNSRE.2006.875584)
+- **2000, Current trends in Graz Brain-Computer Interface (BCI) research.** *IEEE transactions on rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society*. [DOI](https://doi.org/10.1109/86.847821)
+- **1999, Hidden Markov models used for the offline classification of EEG data.** *Biomedizinische Technik. Biomedical engineering*. [DOI](https://doi.org/10.1515/bmte.1999.44.6.158)
+
+### Papers: cortiQ / ECoG / sEEG (19)
+- **2025, High-Gamma Activity Predicts Speech Disturbances Caused By Electrical Cortical Stimulation** *Brain Stimulation* (journal-article). [DOI](https://doi.org/10.1016/j.brs.2024.12.476)
+- **2024, Emotion Recognition of Playing Musicians From EEG, ECG, and Acoustic Signals** *IEEE Transactions on Human-Machine Systems* (journal-article). [DOI](https://doi.org/10.1109/thms.2024.3430327)
+  - Results showed that the best classification performances, in a subject-dependent classification using a KNN classifier were achieved by using features derived from both the EEG and ECG (with an accuracy of 98.11%).
+- **2024, AB073. Electrocorticography high-gamma dynamics during intraoperative hand movement mapping** *Chinese Clinical Oncology* (journal-article). [DOI](https://doi.org/10.21037/cco-24-ab073)
+  - Patients were maintained at a bispectral index (BIS) level above 90 to ensure wakefulness during mapping.
+  - RESULTS Among 37 electrodes on the sensorimotor cortex, 16 exhibited significant HGA during grasping.
+- **2024, ID: 332275 ECoG high-gamma activity peak during speech production increases the ECS effect** *Neuromodulation: Technology at the Neural Interface* (journal-article). [DOI](https://doi.org/10.1016/j.neurom.2024.06.135)
+- **2024, Clustering Epileptic Spike Waveforms for Predicting Seizure Onset Zone** *2024 31st National and 9th International Iranian Conference on Biomedical Engineering (ICBME)* (proceedings-article). [DOI](https://doi.org/10.1109/icbme64381.2024.10895195)
+  - The distance of the IED cluster was 23.36mm and significantly closer to the SOZ than the 37.52mm for non-IEDs.
+- **2023, Near-Brain Computation: Embedding P300-based BCIs at EEG headset level** *2023 9th International Workshop on Advances in Sensors and Interfaces (IWASI)* (proceedings-article). [DOI](https://doi.org/10.1109/iwasi58316.2023.10164428)
+  - The implemented embedded system, applied for a feasibility study to a 12-choice P300 speller matrix, demonstrated matrix element recognition accuracy exceeding 80% after only 4 runs, while maintaining an information transfer rate (ITR) of approximately 16 commands per minute under non-optimal usage conditions.
+- **2021, Unsupervised Quantification of High-Gamma Activity in Electrocorticographic Signals** *2021 10th International IEEE/EMBS Conference on Neural Engineering (NER)* (proceedings-article). [DOI](https://doi.org/10.1109/ner49283.2021.9441139)
+- **2021, Full bandwidth electrophysiology of seizures and epileptiform activity enabled by flexible graphene micro-transistor depth neural probes** ** (posted-content). [DOI](https://doi.org/10.1101/2021.09.17.460765)
+- **2018, Electrocorticogram based brain–computer interfaces** *Smart Wheelchairs and Brain-Computer Interfaces* (book-chapter). [DOI](https://doi.org/10.1016/b978-0-12-812892-3.00009-1)
+- **2018, Online Detection of Real-World Faces in ECoG Signals** *2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)* (proceedings-article). [DOI](https://doi.org/10.1109/smc.2018.00030)
+  - The real-time decoder accuracy and latency of two patients with epilepsy revealed that real-world faces and kanji can be detected with 79.9% and 28.4% accuracy, respectively, showing an average online detection latency of 447 ms with respect to presentation time.
+- **2017, Cortico-cortical potentials mapping of the face recognition network** *Brain Stimulation* (journal-article). [DOI](https://doi.org/10.1016/j.brs.2017.01.495)
+- **2017, Comparison of Alpha/Beta and high-gamma band for motor-imagery based BCI control: A qualitative study** *2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)* (proceedings-article). [DOI](https://doi.org/10.1109/smc.2017.8122965)
+- **2017, Characterization of cortical motor function and imagery-related cortical activity: Potential application for prehabilitation** *2017 IEEE International Conference on Systems, Man, and Cybernetics (SMC)* (proceedings-article). [DOI](https://doi.org/10.1109/smc.2017.8123087)
+  - In our current study, 5 patients with pharmacoresistant epilepsy (2 males, average age 25 years, SD 15), undergoing evaluation for epilepsy surgery participated in both RM and MI tasks.
+- **2017, Passive Functional Mapping of Language Areas Using Electrocorticographic Signals in Humans (S34.006)** *Neurology* (journal-article). [DOI](https://doi.org/10.1212/wnl.88.16_supplement.s34.006)
+- **2015, P87. Expressive and receptive language mapping using ECoG and ECS** *Clinical Neurophysiology* (journal-article). [DOI](https://doi.org/10.1016/j.clinph.2015.04.237)
+- **2015, Electrocorticography-Based Real-Time Functional Mapping for Pediatric Epilepsy Surgery** *Journal of Pediatric Epilepsy* (journal-article). [DOI](https://doi.org/10.1055/s-0035-1563728)
+- **2015, Brain–Computer Interfaces on Track to Home: Results of the Evaluation at Disabled End-Users’ Homes and Lessons Learnt** *Frontiers in ICT* (journal-article). [DOI](https://doi.org/10.3389/fict.2015.00025)
+- **2014, P18: Functional mapping of expressive language area with ECoG and ECS** *Clinical Neurophysiology* (journal-article). [DOI](https://doi.org/10.1016/s1388-2457(14)50181-2)
+- **2010, SSVEP Based Brain-Computer Interface for Robot Control** *Lecture Notes in Computer Science* (book-chapter). [DOI](https://doi.org/10.1007/978-3-642-14100-3_14)
