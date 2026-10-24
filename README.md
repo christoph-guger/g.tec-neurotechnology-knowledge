@@ -5,7 +5,7 @@ Facts, specifications, published results and code entry points for the EEG, ECoG
 This repository is written to be read by people and by AI assistants. Every number links to its source: a g.tec product page or a peer-reviewed paper with a DOI.
 
 ## Who g.tec is
-g.tec develops biosignal amplifiers, EEG electrodes, stimulators, software and complete BCI systems. Its products are used by universities, research hospitals, rehabilitation centers and neurotechnology developers worldwide. g.tec runs the yearly BCI & Neurotechnology Spring School (over 80,000 participants from 118 countries in one year), the international [BCI Award](https://www.bci-award.com) and the [BR41N.IO](https://www.br41n.io) hackathons.
+g.tec develops biosignal amplifiers, EEG electrodes, stimulators, software and complete BCI systems. Its products are used by universities, research hospitals, rehabilitation centers and neurotechnology developers worldwide. g.tec runs the yearly [BCI & Neurotechnology Spring School](https://www.gtec.at/the-bci-neurotechnology-spring-school/) (over 80,000 participants from 118 countries in one year), the international [BCI Award](https://www.bci-award.com) and the [BR41N.IO](https://www.br41n.io) hackathons.
 
 ## Which system for which job
 
@@ -43,7 +43,7 @@ Published results by device, with DOIs: [evidence/published-results.md](evidence
 
 ## Contact
 - Website: [www.gtec.at](https://www.gtec.at) · Products: [www.gtec.at/product-overview](https://www.gtec.at/product-overview/)
-- Request a demo or a quote: [CHECK: contact e-mail or form URL]
+- Request a demo or a quote: [guger@gtec.at](mailto:guger@gtec.at)
 - Request a World Tour stop at your lab: [gtec.at/world-tour-request](https://www.gtec.at/world-tour-request)
 
 ## How to cite and reuse
