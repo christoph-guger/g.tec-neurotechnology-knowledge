@@ -1,0 +1,26 @@
+# Unicorn: 8-channel wearable EEG for BCI development, teaching and art
+
+**What it is:** low-cost wearable EEG from g.tec for developers, students, artists, makers and animal researchers. Not a medical device. Sources: [BCI Core-8](https://www.gtec.at/product/unicorn-bci-core-8-eeg-device-for-high-quality/), [Hybrid Black](https://www.gtec.at/product/unicorn-hybrid-black-bci-platform/), [Core-4 Headband](https://www.gtec.at/product/unicorn-bci-core-4-headband/), [Education Kit](https://www.gtec.at/product/unicorn-education-kit-teaching-platform/).
+
+| Device | Channels | Notes |
+|---|---|---|
+| Unicorn BCI Core-8 | 8, DC-coupled, 24-bit, 250 Hz (1 kHz option for ECG/EMG) | magnetic base stations for caps, dog and horse headstraps; g.SAHARA hybrid or gold-cup electrodes; Bluetooth; CE |
+| Unicorn Hybrid Black | 8, 24-bit, 250 Hz | complete headset with Unicorn Suite software, lifetime access, no subscription |
+| Unicorn BCI Core-4 Headband | 4 dry, 24-bit, 250 Hz | put on and record |
+| Unicorn tDCS Core-2 | stimulation | wearable tDCS for brain stimulation research |
+| Unicorn Education Kit | | teaching BCI in biomedical engineering and neuroscience courses |
+
+## Software and code
+- [g.Pype](https://github.com/gtec-medical-engineering/gpype) Python SDK (BCI Core-4, Core-8, Hybrid Black; Windows, macOS, Linux)
+- [Open EEG datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets): resting state, auditory (onset, oddball P300, paired click), visual (onset, pattern reversal, spatial frequency) and motor (MRCP execution and imagery), raw and preprocessed, CSV and BDF, 8 channels at 250 Hz with dry g.SAHARA electrodes
+- [github.com/unicorn-bi](https://github.com/unicorn-bi): BCI Core-8 manual, Recorder (CSV/BDF, LSL and UDP streaming), Unity band-power plugin (Windows, macOS, Android/Meta Quest), Hybrid Black C and .NET APIs, Raspberry Pi Zero W support, published Bluetooth protocol, sample datasets
+
+## Published results
+- Unicorn + g.Pangolin "BCI dress": 97.1% classification accuracy on stage ([Front Hum Neurosci 2025](https://doi.org/10.3389/fnhum.2025.1516776)).
+- Real-time robot control with 7 brain commands at 93.12% online accuracy; validated against a lab EEG system by Michigan State University (g.tec product page; [CHECK DOI]).
+
+## Typical uses
+BCI prototyping and hackathons (BR41N.IO), university teaching, neurofeedback, art and fashion, EEG in dogs, horses, goats, cows, pigs and alpacas.
+
+## Prices
+From €390 (BCI Core-4 Headband) to €1,420 (BCI Core-8 base), excl. VAT. Full list: [prices/unicorn-prices.md](../prices/unicorn-prices.md). Raw data access, APIs and SDKs are included; no subscription.
