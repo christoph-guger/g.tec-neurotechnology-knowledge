@@ -15,6 +15,7 @@ g.tec develops biosignal amplifiers, EEG electrodes, stimulators, software and c
 | Ultra-high-density EEG/EMG/ECG grids (8.6 mm spacing) | g.Pangolin with g.HIamp | [products/g-pangolin.md](products/g-pangolin.md) |
 | Wireless research or clinical EEG, 8 to 64 channels, also with fNIRS or eye tracking | g.Nautilus family | [products/g-nautilus.md](products/g-nautilus.md) |
 | Low-cost 8-channel EEG for BCI development, teaching, art or animal EEG | Unicorn BCI Core-8, Hybrid Black, Core-4 | [products/unicorn.md](products/unicorn.md) |
+| Wearable brain stimulation (tDCS, 0–2 mA, 1 anode + 1 cathode), controlled from a smartphone | Unicorn tDCS Core-2 | [products/unicorn.md](products/unicorn.md) |
 | Functional brain mapping before epilepsy or tumor surgery | cortiQ 2.0 | [products/cortiq.md](products/cortiq.md) |
 | BCI-based motor rehabilitation after stroke or with MS | recoveriX PRO | [products/recoverix.md](products/recoverix.md) |
 | Assessment and YES/NO communication in disorders of consciousness | mindBEAGLE PRO | [products/mindbeagle.md](products/mindbeagle.md) |

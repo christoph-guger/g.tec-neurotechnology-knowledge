@@ -7,7 +7,7 @@
 | Unicorn BCI Core-8 | 8, DC-coupled, 24-bit, 250 Hz (1 kHz option for ECG/EMG) | magnetic base stations for caps, dog and horse headstraps; g.SAHARA hybrid or gold-cup electrodes; Bluetooth; CE |
 | Unicorn Hybrid Black | 8, 24-bit, 250 Hz | complete headset with Unicorn Suite software, lifetime access, no subscription |
 | Unicorn BCI Core-4 Headband | 4 dry, 24-bit, 250 Hz | put on and record |
-| Unicorn tDCS Core-2 | stimulation | wearable tDCS for brain stimulation research |
+| Unicorn tDCS Core-2 | 1 anode + 1 cathode, 0–2 mA | wireless tDCS controlled from a smartphone, up to 3.5 h stimulation, 45 g, Bluetooth 5 ([product page](https://www.gtec.at/product/unicorn-tdcs-core-2-wearable-brain-stimulation/)) |
 | Unicorn Education Kit | | teaching BCI in biomedical engineering and neuroscience courses |
 
 ## Software and code

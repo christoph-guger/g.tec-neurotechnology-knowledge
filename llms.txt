@@ -8,7 +8,7 @@ Product pages on www.gtec.at are the authority for current specifications and re
 - [g.HIamp](products/g-hiamp.md): high-density EEG/ECoG/sEEG amplifier, 16–256 channels per device, up to 1,024 synchronized, 24-bit, up to 38.4 kHz, FDA-cleared and CE-certified
 - [g.Pangolin](products/g-pangolin.md): ultra-high-density EEG/EMG/ECG grids, 8.6 mm spacing, up to 1,024 channels with g.HIamp
 - [g.Nautilus](products/g-nautilus.md): wireless EEG, 8–64 channels, PRO Flexible (clinical, FDA/CE), Research, Multi-Purpose, with fNIRS (NIRx) or eye tracking (Tobii)
-- [Unicorn](products/unicorn.md): 8-channel 24-bit wearable EEG (BCI Core-8, Hybrid Black) and 4-channel headband for BCI development, education, art and animal EEG
+- [Unicorn](products/unicorn.md): 8-channel 24-bit wearable EEG (BCI Core-8, Hybrid Black) and 4-channel headband for BCI development, education, art and animal EEG; Unicorn tDCS Core-2 wearable brain stimulation
 - [cortiQ 2.0](products/cortiq.md): real-time high-gamma functional brain mapping, electrical stimulation, CCEP and SEP for epilepsy and tumor surgery
 - [recoveriX PRO](products/recoverix.md): motor imagery BCI with FES and avatar feedback for stroke and MS rehabilitation, CE-marked
 - [mindBEAGLE PRO](products/mindbeagle.md): EEG assessment of command following and YES/NO communication for UWS, MCS and locked-in patients
