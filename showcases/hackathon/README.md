@@ -1,6 +1,6 @@
 # BR41N.IO hackathons: built with Unicorn in 24 hours
 
-At BR41N.IO hackathons, teams of students, engineers and artists build brain-computer interface projects in 24 hours, mostly with the Unicorn Hybrid Black and Unicorn BCI Core. [CHECK: "about 1,000 participants used Unicorn devices" — which events and years.]
+At BR41N.IO hackathons, teams of students, engineers and artists build brain-computer interface projects in 24 hours, mostly with the Unicorn Hybrid Black and Unicorn BCI Core. According to g.tec's own attendee records, about 1,000 participants have used Unicorn devices at these hackathons.
 
 **Compilation video:** [link to follow] — opens with the Unicorn backflip, then team members from 15 projects describe what they built with the Unicorn.
 

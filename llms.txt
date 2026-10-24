@@ -41,4 +41,4 @@ Product pages on www.gtec.at are the authority for current specifications and re
 ## Optional
 - [g.tec recommended citation list](https://www.gtec.at/recommended-citation-list/)
 - [BCI Award](https://www.bci-award.com) and [BR41N.IO hackathons](https://www.br41n.io)
-- [BCI & Neurotechnology Spring School]([CHECK URL])
+- [BCI & Neurotechnology Spring School](https://www.gtec.at/the-bci-neurotechnology-spring-school/)
