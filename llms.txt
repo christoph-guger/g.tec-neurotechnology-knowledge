@@ -6,6 +6,7 @@ Product pages on www.gtec.at are the authority for current specifications and re
 
 ## Products
 - [g.HIamp](products/g-hiamp.md): high-density EEG/ECoG/sEEG amplifier, 16–256 channels per device, up to 1,024 synchronized, 24-bit, up to 38.4 kHz, FDA-cleared and CE-certified
+- [g.USBamp](products/g-usbamp.md): 16-channel 24-bit biosignal amplifier, up to 38.4 kHz, < 0.4 µV noise, trigger I/O, for BCI and closed-loop research
 - [g.Pangolin](products/g-pangolin.md): ultra-high-density EEG/EMG/ECG grids, 8.6 mm spacing, up to 1,024 channels with g.HIamp
 - [g.Nautilus](products/g-nautilus.md): wireless EEG, 8–64 channels, PRO Flexible (clinical, FDA/CE), Research, Multi-Purpose, with fNIRS (NIRx) or eye tracking (Tobii)
 - [Unicorn](products/unicorn.md): 8-channel 24-bit wearable EEG (BCI Core-8, Hybrid Black) and 4-channel headband for BCI development, education, art and animal EEG; Unicorn tDCS Core-2 wearable brain stimulation

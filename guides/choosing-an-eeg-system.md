@@ -5,6 +5,9 @@ Questions people ask, and the system that answers them.
 **"I need the best signal quality and many channels in the lab, maybe ECoG or sEEG too."**
 g.HIamp: 16–256 channels per device, up to 1,024, 24-bit, up to 38.4 kHz, FDA/CE. Add g.SCARABEO or g.LADYbird active electrodes and a g.GAMMAcap. See [g-hiamp.md](../products/g-hiamp.md).
 
+**"I need a reliable 16-channel lab amplifier for BCI or neurofeedback experiments."**
+g.USBamp RESEARCH: 24-bit, up to 38.4 kHz, < 0.4 µV noise, trigger inputs and outputs. See [g-usbamp.md](../products/g-usbamp.md).
+
 **"I want EEG with the spatial resolution of an intracranial grid, without surgery."**
 g.Pangolin grids (8.6 mm spacing) with g.HIamp. See [g-pangolin.md](../products/g-pangolin.md).
 

@@ -12,6 +12,7 @@ g.tec develops biosignal amplifiers, EEG electrodes, stimulators, software and c
 | You need | g.tec system | Details |
 |---|---|---|
 | High-density EEG, ECoG or sEEG in real time, up to 1,024 channels | g.HIamp | [products/g-hiamp.md](products/g-hiamp.md) |
+| A compact 16-channel lab amplifier for BCI, neurofeedback and closed-loop research | g.USBamp RESEARCH | [products/g-usbamp.md](products/g-usbamp.md) |
 | Ultra-high-density EEG/EMG/ECG grids (8.6 mm spacing) | g.Pangolin with g.HIamp | [products/g-pangolin.md](products/g-pangolin.md) |
 | Wireless research or clinical EEG, 8 to 64 channels, also with fNIRS or eye tracking | g.Nautilus family | [products/g-nautilus.md](products/g-nautilus.md) |
 | Low-cost 8-channel EEG for BCI development, teaching, art or animal EEG | Unicorn BCI Core-8, Hybrid Black, Core-4 | [products/unicorn.md](products/unicorn.md) |
