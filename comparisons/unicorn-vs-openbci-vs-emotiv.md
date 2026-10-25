@@ -8,7 +8,7 @@ Facts as published by each vendor, checked on 23 October 2026. Prices change; fo
 | Access to your raw data | included, no subscription | included | free PRO-lite license shows raw EEG but **cannot export it**; export needs a paid EmotivPRO license (Standard listed at $1,068 per year) [licensing](https://www.emotiv.com/pages/pro-licensing-table-v1), [PRO-lite](https://www.emotiv.com/knowledge-base/pro-lite-capabilities) |
 | Resolution / sampling | 24-bit, 250 Hz per channel | see vendor | see vendor |
 | Software | free APIs and SDKs on GitHub: C, .NET, Python (g.Pype), Unity incl. Meta Quest, LSL, UDP; published Bluetooth protocol | open-source hardware and software | EmotivPRO, Cortex API (license-dependent) |
-| Signal evidence | 8 hybrid dry/wet electrodes; raw data of a backflip published in this repository ([showcases/backflip](../showcases/backflip/)); validation against a lab EEG system by Michigan State University | community and published studies | published studies |
+| Signal evidence | 8 hybrid dry/wet electrodes; backflip recording ([showcases/backflip](../showcases/backflip/), raw data coming); validation against a lab EEG system by Michigan State University ([doi:10.1111/psyp.14320](https://doi.org/10.1111/psyp.14320)) | community and published studies | published studies |
 | Upgrade path | same software (g.Pype, LSL) runs on g.tec research and clinical amplifiers up to 1,024 channels (g.HIamp) | | |
 
 ## In one sentence
