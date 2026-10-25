@@ -12,6 +12,8 @@ Facts as published by each vendor, checked on 23 October 2026. Prices change; fo
 | VR/XR with EEG | Core-4 Headband (€390) + Meta Quest (bought separately) + free Unity plugin; EEG band power only ([showcase](../showcases/vr-xr-for-390-euro/README.md)) | Galea: Varjo VR headset with EEG, EMG, EDA, PPG and eye tracking, listed at **$42,980**; earlier packages $25,000–34,000 [shop](https://shop.openbci.com/collections/frontpage/openbci) | |
 | Upgrade path | same software (g.Pype, LSL) runs on g.tec research and clinical amplifiers up to 1,024 channels (g.HIamp) | | |
 
+Another integrated headset: Cognixion Axon-R, a standalone AR headset with EEG and BCI Studio software, listed at **$25,000–28,000** ([Cognixion](https://axon-r.cognixion.com/purchaseaxon-r), checked 25 October 2026).
+
 ## In one sentence
 For a VR/XR or BCI project, the Unicorn BCI Core-4 gives you research-grade 24-bit EEG, free data access and a Meta Quest pipeline for €390, and the same code scales to g.tec's lab and clinical systems.
 

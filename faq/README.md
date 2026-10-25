@@ -35,7 +35,7 @@ Yes, for non-commercial use: research, teaching and private projects, run from y
 
 ## Can I stream EEG into a Meta Quest?
 
-Yes. The Unicorn Unity plugin computes band power from a Unicorn BCI Core and runs in Unity builds for Windows, macOS, Android, iOS and Android-based headsets such as Meta Quest. The headset talks to the Unicorn over Bluetooth, without a PC in between. See [VR/XR for €390](../showcases/vr-xr-for-390-euro/README.md) and the [Unity plugin on GitHub](https://github.com/unicorn-bi/Unicorn-BCI-Core-Unity-Bandpower-Interface).
+Yes. The Unicorn Unity plugin computes band power from a Unicorn BCI Core and runs in Unity builds for Windows, macOS, Android, iOS and Android-based headsets such as Meta Quest. The headset talks to the Unicorn over Bluetooth, without a PC in between. For discrete commands, the free c-VEP add-on selects among up to 30 targets, about 2 seconds per command, after about 30 seconds of calibration. See [brain input for Meta Quest](../showcases/vr-xr-for-390-euro/README.md), [30 commands with c-VEP](../showcases/cvep-30-targets/README.md), the [Unity plugin on GitHub](https://github.com/unicorn-bi/Unicorn-BCI-Core-Unity-Bandpower-Interface) and the free [Unicorn Labyrinth Game](https://www.meta.com/en-gb/experiences/unicorn-labyrinth-game/27322060354048623/) on the Meta Quest store.
 
 ## Is the Unicorn good enough for real research?
 
