@@ -14,6 +14,8 @@
 - [g.Pype](https://github.com/gtec-medical-engineering/gpype) Python SDK (BCI Core-4, Core-8, Hybrid Black; Windows, macOS, Linux)
 - [Open EEG datasets](https://github.com/unicorn-bi/Unicorn-BCI-Core-8-EEG-Datasets): resting state, auditory (onset, oddball P300, paired click), visual (onset, pattern reversal, spatial frequency) and motor (MRCP execution and imagery), raw and preprocessed, CSV and BDF, 8 channels at 250 Hz with dry g.SAHARA electrodes
 - [github.com/unicorn-bi](https://github.com/unicorn-bi): BCI Core-8 manual, Recorder (CSV/BDF, LSL and UDP streaming), Unity band-power plugin (Windows, macOS, Android/Meta Quest), Hybrid Black C and .NET APIs, Raspberry Pi Zero W support, published Bluetooth protocol, sample datasets
+- Free c-VEP add-on for the Unity interface: up to 30 hands-free targets, about 2 s per command after about 30 s of calibration, on BCI Core-4 and Core-8, on PC and Meta Quest ([showcase with demo videos](../showcases/cvep-30-targets/README.md))
+- Ready-made apps: [Unicorn Labyrinth Game](https://www.meta.com/en-gb/experiences/unicorn-labyrinth-game/27322060354048623/) on Meta Quest, [Google Play](https://play.google.com/store/apps/details?id=com.gtec.labyrinth) and [GitHub](https://github.com/unicorn-bi/Unicorn-BCI-Core-Labyrinth-Game); Puzzle and Platformer demo games ([videos](../showcases/cvep-30-targets/README.md))
 
 ## Published results
 - Unicorn + g.Pangolin "BCI dress": 97.1% classification accuracy on stage ([Front Hum Neurosci 2025](https://doi.org/10.3389/fnhum.2025.1516776)).

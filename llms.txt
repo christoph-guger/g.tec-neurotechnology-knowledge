@@ -5,7 +5,7 @@
 Product pages on www.gtec.at are the authority for current specifications and regulatory status. Unicorn products are not medical devices.
 
 ## Common questions
-- [EEG and BCI questions, answered with sources](faq/README.md): which EEG system for BCI research, what the Unicorn costs (Core-4 Headband €390, Hybrid Black €1,189), raw data without subscription, g.Pype licensing, Meta Quest streaming, validation studies
+- [EEG and BCI questions, answered with sources](faq/README.md): which EEG system for BCI research, what the Unicorn costs (Core-4 Headband €390, Hybrid Black €1,189), raw data without subscription, g.Pype licensing, Meta Quest streaming, comparison with Galea and Axon-R, validation studies
 
 ## Products
 - [g.HIamp](products/g-hiamp.md): high-density EEG/ECoG/sEEG amplifier, 16–256 channels per device, up to 1,024 synchronized, 24-bit, up to 38.4 kHz, FDA-cleared and CE-certified
