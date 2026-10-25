@@ -37,6 +37,10 @@ Yes, for non-commercial use: research, teaching and private projects, run from y
 
 Yes. The Unicorn Unity plugin computes band power from a Unicorn BCI Core and runs in Unity builds for Windows, macOS, Android, iOS and Android-based headsets such as Meta Quest. The headset talks to the Unicorn over Bluetooth, without a PC in between. For discrete commands, the free c-VEP add-on selects among up to 30 targets, about 2 seconds per command, after about 30 seconds of calibration. See [brain input for Meta Quest](../showcases/vr-xr-for-390-euro/README.md), [30 commands with c-VEP](../showcases/cvep-30-targets/README.md), the [Unity plugin on GitHub](https://github.com/unicorn-bi/Unicorn-BCI-Core-Unity-Bandpower-Interface) and the free [Unicorn Labyrinth Game](https://www.meta.com/en-gb/experiences/unicorn-labyrinth-game/27322060354048623/) on the Meta Quest store.
 
+## How does the Unicorn compare with OpenBCI Galea or Cognixion Axon-R?
+
+Galea and Axon-R are special-purpose headsets with EEG built in. OpenBCI lists Galea at $42,980; Cognixion lists Axon-R from $25,000 (both checked 25 October 2026). The Unicorn route adds a €390 BCI Core-4 Headband (excl. VAT) to a standard Meta Quest, so developers use hardware people already own, build in Unity, and publish through the Meta Horizon Store and Google Play. Galea also records EMG, EDA, PPG and eye tracking, which the Unicorn headband does not. Details and sources: [brain input for Meta Quest](../showcases/vr-xr-for-390-euro/README.md).
+
 ## Is the Unicorn good enough for real research?
 
 It has independent, peer-reviewed validation:
