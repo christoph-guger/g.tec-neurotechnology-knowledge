@@ -17,7 +17,8 @@
 
 ## Published results
 - Unicorn + g.Pangolin "BCI dress": 97.1% classification accuracy on stage ([Front Hum Neurosci 2025](https://doi.org/10.3389/fnhum.2025.1516776)).
-- Real-time robot control with 7 brain commands at 93.12% online accuracy; validated against a lab EEG system by Michigan State University (g.tec product page; [CHECK DOI]).
+- Real-time robot control with 7 brain commands at 93.12% online accuracy (5 subjects, Unicorn Hybrid Black; An, Wong & Ling, Applied Soft Computing 2024, [doi:10.1016/j.asoc.2024.111648](https://doi.org/10.1016/j.asoc.2024.111648)).
+- Validated against a wired lab EEG system by Michigan State University: valid spectral measures even without electrode preparation; ERPs need conductive solution (Pontifex & Coffman, Psychophysiology 2023, [doi:10.1111/psyp.14320](https://doi.org/10.1111/psyp.14320)).
 
 ## Typical uses
 BCI prototyping and hackathons (BR41N.IO), university teaching, neurofeedback, art and fashion, EEG in dogs, horses, goats, cows, pigs and alpacas.
