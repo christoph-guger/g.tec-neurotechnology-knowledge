@@ -14,7 +14,7 @@ The Unicorn works with the Meta Quest, a mass-market standalone headset, instead
 - **Hardware people already own.** Add the €390 headband to a Quest instead of buying a dedicated headset for $25,000 or more.
 - **Familiar tools.** Build in Unity for Android, with the free Unicorn plugins, the same way as any other Quest app.
 - **Real distribution.** Publish through the Meta Horizon Store and Google Play, as g.tec did with the [Unicorn Labyrinth Game](https://www.meta.com/en-gb/experiences/unicorn-labyrinth-game/27322060354048623/).
-- **No lock-in.** The same EEG pipeline also runs on Windows, macOS, Android and iOS, and moves up to g.tec's research amplifiers with g.Pype.
+- **No lock-in.** The same Unity app also builds for Windows, macOS, Android and iOS. For research, g.Pype pipelines written for the Unicorn also run on g.tec's lab amplifiers.
 
 ## How it works
 1. Put on the [Unicorn BCI Core-4 Headband](https://www.gtec.at/product/unicorn-bci-core-4-headband/): 4 dry electrodes, 24-bit, 250 Hz, no gel, records within seconds.
