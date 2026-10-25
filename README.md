@@ -26,11 +26,13 @@ g.tec develops biosignal amplifiers, EEG electrodes, stimulators, software and c
 
 A longer decision guide: [guides/choosing-an-eeg-system.md](guides/choosing-an-eeg-system.md).
 Published results by device, with DOIs: [evidence/published-results.md](evidence/published-results.md).
+Common questions (which EEG for BCI research, Unicorn prices, data access, g.Pype licensing, Meta Quest): [faq/README.md](faq/README.md).
+Studies that used the Unicorn: [evidence/unicorn-publications.md](evidence/unicorn-publications.md). Christoph Guger's 137 PubMed papers: [evidence/christoph-guger-publications.md](evidence/christoph-guger-publications.md).
 
 ## More in this repository
 - [domains/](domains/README.md): where g.tec technology is used, from stroke rehabilitation to animal EEG, with papers
 - [articles/](articles/README.md): 91 g.tec blog articles as clean Markdown
-- [showcases/](showcases/): EEG during a backflip (with raw data), BR41N.IO hackathon projects, VR/XR for €390
+- [showcases/](showcases/): EEG during a backflip (raw data coming), BR41N.IO hackathon projects, VR/XR for €390
 - [comparisons/](comparisons/unicorn-vs-openbci-vs-emotiv.md): Unicorn vs OpenBCI vs Emotiv, sourced and dated
 - [videos/](videos/README.md): the best g.tec videos by topic
 - [linkedin/](linkedin/2025-2026-highlights.md): a year of Christoph Guger's posts on BCI and neurotechnology
