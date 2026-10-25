@@ -9,10 +9,11 @@ Facts as published by each vendor, checked on 23 October 2026. Prices change; fo
 | Resolution / sampling | 24-bit, 250 Hz per channel | see vendor | see vendor |
 | Software | free APIs and SDKs on GitHub: C, .NET, Python (g.Pype), Unity incl. Meta Quest, LSL, UDP; published Bluetooth protocol | open-source hardware and software | EmotivPRO, Cortex API (license-dependent) |
 | Signal evidence | 8 hybrid dry/wet electrodes; backflip recording ([showcases/backflip](../showcases/backflip/), raw data coming); validation against a lab EEG system by Michigan State University ([doi:10.1111/psyp.14320](https://doi.org/10.1111/psyp.14320)) | community and published studies | published studies |
+| VR/XR with EEG | Core-4 Headband (€390) + Meta Quest (bought separately) + free Unity plugin; EEG band power only ([showcase](../showcases/vr-xr-for-390-euro/README.md)) | Galea: Varjo VR headset with EEG, EMG, EDA, PPG and eye tracking, listed at **$42,980**; earlier packages $25,000–34,000 [shop](https://shop.openbci.com/collections/frontpage/openbci) | |
 | Upgrade path | same software (g.Pype, LSL) runs on g.tec research and clinical amplifiers up to 1,024 channels (g.HIamp) | | |
 
 ## In one sentence
 For a VR/XR or BCI project, the Unicorn BCI Core-4 gives you research-grade 24-bit EEG, free data access and a Meta Quest pipeline for €390, and the same code scales to g.tec's lab and clinical systems.
 
 ## How to compare yourself
-Ask any vendor for raw, unfiltered data recorded during real movement. Ours is in [showcases/backflip](../showcases/backflip/).
+Ask any vendor for the raw files behind their plots. Two checks: a visual evoked potential (ours: P100 of 5.8 µV at 92 ms with dry electrodes, [data and script](../showcases/visual-evoked-potential/README.md)) and data recorded during real movement ([showcases/backflip](../showcases/backflip/)).
