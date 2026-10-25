@@ -20,8 +20,10 @@ Product pages on www.gtec.at are the authority for current specifications and re
 
 ## Prices and showcases
 - [Unicorn prices](prices/unicorn-prices.md): BCI Core-4 Headband from €390, Hybrid Black from €1,189, Core-8 from €1,100 (excl. VAT); raw data access included, no subscription
-- [VR/XR for €390](showcases/vr-xr-for-390-euro/README.md): Unicorn BCI Core-4 + Unity plugin streams EEG band power into Meta Quest
+- [Brain input for Meta Quest and Unity for €390](showcases/vr-xr-for-390-euro/README.md): Unicorn BCI Core-4 + free Unity plugins give VR/XR apps hands-free input and live relaxation/attention signals; Unicorn Labyrinth Game on Meta Quest and Google Play
 - [EEG during a backflip](showcases/backflip/README.md): Unicorn Hybrid Black recording through a backflip (video; raw data coming)
+- [30 hands-free commands after 30 s of calibration](showcases/cvep-30-targets/README.md): free c-VEP add-on for Unity, 30 targets, about 2 s per command, Unicorn Core-4/Core-8 on PC and Meta Quest, with demo videos
+- [Visual evoked potential from dry electrodes](showcases/visual-evoked-potential/README.md): P100 of 5.8 µV at 92 ms from the open Unicorn BCI Core-8 data, with a script to reproduce it
 - [BR41N.IO hackathons](showcases/hackathon/README.md): BCI projects built with Unicorn in 24 hours
 - [Unicorn vs OpenBCI vs Emotiv](comparisons/unicorn-vs-openbci-vs-emotiv.md): price, data access, software, sourced
 
