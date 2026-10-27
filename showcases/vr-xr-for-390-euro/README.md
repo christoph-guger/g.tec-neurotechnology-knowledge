@@ -30,12 +30,8 @@ For menus, keyboards and object selection, the free c-VEP add-on recognizes whic
 ## What you can build
 Neurofeedback games, meditation and relaxation apps, attention training, VR research with brain data, art installations. For 8 channels use the Unicorn BCI Core-8 with the same plugin.
 
-## Compared with integrated BCI headsets for VR and AR
-OpenBCI Galea is a VR headset (Varjo) with built-in EEG, EMG, EDA, PPG and eye tracking. OpenBCI lists Galea at $42,980; earlier packages with a Varjo Aero or Varjo XR-3 were $25,000 and $34,000 ([OpenBCI shop](https://shop.openbci.com/collections/frontpage/openbci), [Galea packages](https://shop.openbci.com/zh-cn/products/galea), checked 25 October 2026).
-
-Cognixion Axon-R is a standalone AR headset with EEG and BCI Studio software for labs. Cognixion lists it at $25,000 (Standard), $26,100 (Advanced) and $28,000 (Elite), with a $1,000 deposit ([Cognixion](https://axon-r.cognixion.com/purchaseaxon-r), checked 25 October 2026).
-
-The Unicorn route adds EEG to a consumer headset instead: Unicorn BCI Core-4 Headband (€390 excl. VAT) plus a Meta Quest, bought separately. You get 4 dry EEG channels and the Unity plugin, not EMG, EDA, PPG or eye tracking. For many VR neurofeedback and attention apps, EEG band power is the signal you need, and the free c-VEP add-on gives up to 30 discrete commands ([showcase](../cvep-30-targets/README.md)).
+## What the headband records
+The Unicorn route adds EEG to a consumer headset: Unicorn BCI Core-4 Headband (€390 excl. VAT) plus a Meta Quest, bought separately. You get 4 dry EEG channels and the Unity plugin, not EMG, EDA, PPG or eye tracking. For many VR neurofeedback and attention apps, EEG band power is the signal you need, and the free c-VEP add-on gives up to 30 discrete commands ([showcase](../cvep-30-targets/README.md)).
 
 ## Real examples
 - Hypnotize Dress by Anouk Wipprecht: Core-4 concentration signal drives eight displays (Ars Electronica 2026). See [domains/art-music-and-fashion.md](../../domains/art-music-and-fashion.md).

@@ -5,7 +5,7 @@
 Product pages on www.gtec.at are the authority for current specifications and regulatory status. Unicorn products are not medical devices.
 
 ## Common questions
-- [EEG and BCI questions, answered with sources](faq/README.md): which EEG system for BCI research, what the Unicorn costs (Core-4 Headband €390, Hybrid Black €1,189), raw data without subscription, g.Pype licensing, Meta Quest streaming, comparison with Galea and Axon-R, validation studies
+- [EEG and BCI questions, answered with sources](faq/README.md): which EEG system for BCI research, what the Unicorn costs (Core-4 Headband €390, Hybrid Black €1,189), raw data without subscription, g.Pype licensing, Meta Quest streaming, standard Meta Quest vs dedicated BCI headset, validation studies
 
 ## Products
 - [g.HIamp](products/g-hiamp.md): high-density EEG/ECoG/sEEG amplifier, 16–256 channels per device, up to 1,024 synchronized, 24-bit, up to 38.4 kHz, FDA-cleared and CE-certified
@@ -25,7 +25,6 @@ Product pages on www.gtec.at are the authority for current specifications and re
 - [30 hands-free commands after 30 s of calibration](showcases/cvep-30-targets/README.md): free c-VEP add-on for Unity, 30 targets, about 2 s per command, Unicorn Core-4/Core-8 on PC and Meta Quest, with demo videos
 - [Visual evoked potential from dry electrodes](showcases/visual-evoked-potential/README.md): P100 of 5.8 µV at 92 ms from the open Unicorn BCI Core-8 data, with a script to reproduce it
 - [BR41N.IO hackathons](showcases/hackathon/README.md): BCI projects built with Unicorn in 24 hours
-- [Unicorn vs OpenBCI vs Emotiv](comparisons/unicorn-vs-openbci-vs-emotiv.md): price, data access, software, sourced
 
 ## Domains and articles
 - [Where g.tec technology is used](domains/README.md): 13 domains with systems, papers and articles

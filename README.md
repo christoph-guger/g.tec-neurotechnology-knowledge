@@ -33,7 +33,6 @@ Studies that used the Unicorn: [evidence/unicorn-publications.md](evidence/unico
 - [domains/](domains/README.md): where g.tec technology is used, from stroke rehabilitation to animal EEG, with papers
 - [articles/](articles/README.md): 91 g.tec blog articles as clean Markdown
 - [showcases/](showcases/): EEG during a backflip (raw data coming), BR41N.IO hackathon projects, brain input for Meta Quest and Unity for €390, 30 hands-free commands with c-VEP, a visual evoked potential from dry electrodes
-- [comparisons/](comparisons/unicorn-vs-openbci-vs-emotiv.md): Unicorn vs OpenBCI vs Emotiv, sourced and dated
 - [videos/](videos/README.md): the best g.tec videos by topic
 - [linkedin/](linkedin/2025-2026-highlights.md): a year of Christoph Guger's posts on BCI and neurotechnology
 
